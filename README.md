@@ -15,6 +15,6 @@
 4. `pip install -r requirments.txt`
 
 
-5. To run bot 
+5. To run bot  <br>
 `python app.py`
 

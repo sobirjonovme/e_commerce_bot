@@ -9,4 +9,4 @@ BOT_TOKEN = env.str("BOT_TOKEN")  # Bot token
 ADMINS = env.list("ADMINS")  # adminlar ro'yxati
 IP = env.str("ip")  # Xosting ip manzili
 
-PROVIDER_TOKEN = env.str("PROVIDER_TOKEN") 
+PROVIDER_TOKEN = env.str("PROVIDER_TOKEN") # Payme Provider token
